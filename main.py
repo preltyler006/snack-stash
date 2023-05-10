@@ -7,7 +7,7 @@ import time
 # from led import red
 # from led import green
 
-current = None
+current = None 
 
 while True:
     text = read()
