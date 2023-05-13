@@ -11,3 +11,5 @@ def write():
 		print("Write Successfull")
 	finally:
 		GPIO.cleanup()
+
+write()
